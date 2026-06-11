@@ -44,7 +44,7 @@
 }
 
 span{
-    color: #6f6969;
+    color: #796b6b;
 }
 
 .menu-items{
@@ -93,5 +93,5 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f3f3f3;
+    background-color: #e29292;
 }
